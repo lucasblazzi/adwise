@@ -1,0 +1,128 @@
+{
+    "persona": {
+        "behavioral_insights": {
+            "spending_habits": [
+                "Tends to prioritize essential family expenses over luxury items.",
+                "Limited discretionary spending due to family size and income level.",
+                "May seek deals or discounts before making a purchase."
+            ],
+            "interests": [
+                "Family-oriented activities and products.",
+                "Collecting items with sentimental or investment value.",
+                "Engaging with popular culture, especially related to children's interests."
+            ],
+            "potential_motivations": [
+                "Desire to provide engaging activities for children.",
+                "Interest in collectible items that can appreciate in value.",
+                "Looking for ways to bond with family through shared hobbies."
+            ],
+            "potential_barriers": [
+                "Concern about the affordability given her family's financial needs.",
+                "Limited knowledge about the Pokémon TCG and its value.",
+                "Uncertainty about the investment potential of collectible cards."
+            ]
+        },
+        "background": {
+            "daily_routine": [
+                "Morning: Prepares breakfast for family and gets children ready for school.",
+                "Daytime: Engages in household management, including budgeting and planning family activities.",
+                "Afternoon: Helps children with homework or extracurricular activities.",
+                "Evening: Family time, possibly involving games or shared interests."
+            ],
+            "hobbies": [
+                "Enjoys crafting or DIY projects with children.",
+                "Participates in family game nights.",
+                "Follows trends in popular culture and collectibles."
+            ],
+            "goals": [
+                "To create memorable experiences for her family.",
+                "To build a collection that could potentially be an investment.",
+                "To educate her children about responsible spending and the value of collectibles."
+            ]
+        },
+        "message_recommendation": {
+            "tone": "Friendly and supportive, emphasizing family values and the joy of collecting.",
+            "suggested_aproach": "Highlight the limited edition nature of the product and the potential for future value. Emphasize how it can create family bonding experiences and serve as a fun investment.",
+            "communication_channel": "WhatsApp and email, as these are convenient and commonly used for family communication and promotions."
+        }
+    },
+    "campaign": {
+        "objective": "Product selling",
+        "product": {
+            "price": 199.99,
+            "name": "PokÃ©mon, Box Display Escarlate E Violeta 7 Coroa Estelar TCG",
+            "currency": "BRL",
+            "description": [
+                "ColeÃ§Ã£o Limitada: EdiÃ§Ã£o especial com tiragem limitada.",
+                "ConteÃºdo Exclusivo: 36 boosters por box, cada booster contendo cartas raras garantidas.",
+                "Valor ColecionÃ¡vel: Possibilidade de obter cartas ultra-raras e com alto valor de mercado.",
+                "Embalagem Especial: Box decorativa com arte exclusiva, ideal para colecionadores.",
+                "PromoÃ§Ã£o Especial: Ofertas e descontos especiais na compra antecipada ou em grandes quantidades."
+            ],
+            "link": "https://arcania.com/produto/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg",
+            "image": "https://arcania.com/images/products/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg.jpg"
+        },
+        "company": {
+            "name": "Arcania TCG",
+            "slogan": "Desperte seu poder, domine o jogo.",
+            "description": "A Arcania TCG Ã© uma loja especializada em artigos exclusivos para jogadores de Trading Card Games (TCG). Com uma seleÃ§Ã£o premium que inclui cartas raras, boosters, sleeves protetores, playmats personalizados e acessÃ³rios diversos, a Arcania Ã© projetada para atender desde iniciantes atÃ© jogadores profissionais.",
+            "website": "https://arcania.com",
+            "products": [
+                "Cartas Individuais (singles): Grande variedade de cartas avulsas de Magic: The Gathering, PokÃ©mon TCG, Yu-Gi-Oh!, entre outros jogos.",
+                "Boosters e Boxes: Ãšltimos lanÃ§amentos e ediÃ§Ãµes limitadas.",
+                "AcessÃ³rios Exclusivos: Sleeves protetores personalizados, caixas organizadoras, dados temÃ¡ticos, playmats com arte original.",
+                "ColecionÃ¡veis: Produtos exclusivos como cartas graduadas (graded cards), artes originais de artistas renomados e merchandise oficial.",
+                "Eventos e Torneios: OrganizaÃ§Ã£o de torneios oficiais, eventos semanais e encontros de trocas para fortalecer a comunidade local e virtual."
+            ],
+            "social_media": {
+                "instagram": "https://instagram.com/arcania_tcg",
+                "facebook": "https://facebook.com/arcania_tcg",
+                "twitter": "https://twitter.com/arcania_tcg",
+                "tiktok": "https://tiktok.com/@arcania_tcg"
+            },
+            "address": {
+                "street": "Rua das Flores",
+                "number": 123,
+                "city": "SÃ£o Paulo",
+                "state": "SP",
+                "zip_code": "01234-567",
+                "country": "Brasil"
+            },
+            "differentiation": [
+                "Plataforma Digital Segura: Loja online com excelente UX/UI, integraÃ§Ã£o com sistemas de pagamento seguros e compliance financeiro.",
+                "Programa de Fidelidade: Sistema de pontos e recompensas exclusivas para clientes frequentes.",
+                "Comunidade Engajada: Plataforma de interaÃ§Ã£o para jogadores compartilharem estratÃ©gias, notÃ­cias e realizarem trocas com seguranÃ§a.",
+                "Suporte Especializado: Equipe experiente com atendimento personalizado e consultoria tÃ©cnica."
+            ],
+            "values": [
+                "TransparÃªncia: Compromisso com a honestidade e clareza em todas as transaÃ§Ãµes.",
+                "InovaÃ§Ã£o: Busca constante por novas tecnologias e tendÃªncias no mercado de TCG.",
+                "Comunidade: ValorizaÃ§Ã£o da interaÃ§Ã£o e do crescimento conjunto entre jogadores e a loja.",
+                "Sustentabilidade: Iniciativas para reduzir o impacto ambiental, como embalagens reciclÃ¡veis e parcerias com fornecedores sustentÃ¡veis."
+            ]
+        },
+        "language": "pt-br",
+        "client": {
+            "CustomerID": 441,
+            "Gender": "Female",
+            "Age": 0,
+            "Annual Income ($)": 57373,
+            "Spending Score (1-100)": 29,
+            "Profession": NaN,
+            "Work Experience": 0,
+            "Family Size": 7,
+            "attr_proportion": 0.8888888888888888
+        }
+    },
+    "advertisement": {
+        "platform": "email",
+        "format": "html",
+        "body": "<div style='font-family: Arial, sans-serif; color: #333; line-height: 1.5;'>\n    <h1 style='color: #ff6f61;'>🌟 Colecionadores, Atenção! 🌟</h1>\n    <p>Você está pronta para uma experiência única e emocionante em família? Conheça a <strong>Box Display Escarlate e Violeta 7 Coroa Estelar TCG</strong> da Pokémon, uma edição limitada que promete encantar a todos!</p>\n    <p>Esta <strong>coleção exclusiva</strong> vem com <strong>36 boosters</strong>, cada um trazendo cartas raras garantidas. Imagine a alegria das crianças ao abrirem cada booster e descobrirem cartas ultra-raras que podem valorizar com o tempo!</p>\n    <p>Além disso, a embalagem especial é perfeita para exibir e guardar, tornando-se uma peça de destaque na coleção da sua família. É uma oportunidade incrível para não só criar memórias, mas também ensinar sobre o valor dos colecionáveis e do investimento.</p>\n    <p>💰 <strong>Promoção Especial!</strong> Ao comprar antecipadamente ou em grandes quantidades, você garante descontos imperdíveis. Não perca essa chance!</p>\n    <p><a href='https://arcania.com/produto/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg' style='background-color: #ff6f61; color: #fff; padding: 10px 15px; text-decoration: none; border-radius: 5px;'>👉 <strong>Garanta já a sua!</strong></a></p>\n</div>",
+        "title": "🎉 Desperte seu Poder com a Nova Coleção Pokémon!",
+        "cta": "Garanta já a sua!",
+        "visual_guidelines": "Utilizar emojis para dar um toque amigável, usar negrito para destacar informações importantes, manter espaçamentos adequados entre parágrafos.",
+        "tone": "Amigável e encorajador, enfatizando valores familiares e a alegria da coleção.",
+        "personalization_strategy": "A mensagem é adaptada para uma mãe que busca criar experiências significativas para sua família, abordando preocupações sobre valor e investimento, e destacando a diversão e o potencial de valorização dos produtos.",
+        "ad": "<div style='font-family: Arial, sans-serif; color: #333; line-height: 1.5;'>\n    <h1 style='color: #ff6f61;'>🌟 Colecionadores, Atenção! 🌟</h1>\n    <p>Você está pronta para uma experiência única e emocionante em família? Conheça a <strong>Box Display Escarlate e Violeta 7 Coroa Estelar TCG</strong> da Pokémon, uma edição limitada que promete encantar a todos!</p>\n    <p>Esta <strong>coleção exclusiva</strong> vem com <strong>36 boosters</strong>, cada um trazendo cartas raras garantidas. Imagine a alegria das crianças ao abrirem cada booster e descobrirem cartas ultra-raras que podem valorizar com o tempo!</p>\n    <p>Além disso, a embalagem especial é perfeita para exibir e guardar, tornando-se uma peça de destaque na coleção da sua família. É uma oportunidade incrível para não só criar memórias, mas também ensinar sobre o valor dos colecionáveis e do investimento.</p>\n    <p>💰 <strong>Promoção Especial!</strong> Ao comprar antecipadamente ou em grandes quantidades, você garante descontos imperdíveis. Não perca essa chance!</p>\n    <p><a href='https://arcania.com/produto/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg' style='background-color: #ff6f61; color: #fff; padding: 10px 15px; text-decoration: none; border-radius: 5px;'>👉 <strong>Garanta já a sua!</strong></a></p>\n</div>"
+    }
+}

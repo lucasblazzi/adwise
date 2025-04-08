@@ -1,0 +1,133 @@
+{
+    "persona": {
+        "behavioral_insights": {
+            "spending_habits": [
+                "Moderate spending on collectibles and art supplies",
+                "Tends to look for quality over quantity in purchases",
+                "Engages in planned purchases for special items"
+            ],
+            "interests": [
+                "Art and creativity",
+                "Collecting rare items",
+                "Community events related to Pokémon and other collectibles",
+                "Cultural events and exhibitions"
+            ],
+            "potential_motivations": [
+                "Desire to expand her collection of rare Pokémon cards",
+                "Interest in the artistic design of the box and cards",
+                "Looking for a unique gift for family members or friends who are Pokémon fans",
+                "Value in the potential investment aspect of rare cards"
+            ],
+            "potential_barriers": [
+                "Concerns about the actual value of the cards compared to the price",
+                "Uncertainty about whether the purchase will truly enhance her collection",
+                "Potential hesitation due to the limited edition aspect and fear of missing out"
+            ]
+        },
+        "background": {
+            "daily_routine": [
+                "Morning: Engages in creative projects or attends art classes",
+                "Afternoon: Works on commissioned art pieces or attends gallery showings",
+                "Evening: Spends time with family, possibly sharing her interests in collectibles"
+            ],
+            "hobbies": [
+                "Painting and drawing",
+                "Participating in local art shows",
+                "Collecting art supplies and rare Pokémon cards",
+                "Engaging in community activities centered around collectibles"
+            ],
+            "goals": [
+                "To grow her collection of rare and valuable Pokémon cards",
+                "To inspire her family to engage in creative and collectible pursuits",
+                "To secure a legacy of her art and collectibles for her children",
+                "To participate more actively in collector communities"
+            ]
+        },
+        "message_recommendation": {
+            "tone": "Friendly, engaging, and informative, focusing on community and exclusivity",
+            "suggested_aproach": "Highlight the limited nature of the box display and the potential for obtaining ultra-rare cards. Emphasize how this product fits into her artistic and collectible passions, and offer reassurance regarding the investment value.",
+            "communication_channel": "Email and WhatsApp for personalized communication and timely updates on special offers or promotions"
+        }
+    },
+    "campaign": {
+        "objective": "Product selling",
+        "product": {
+            "price": 199.99,
+            "name": "PokÃ©mon, Box Display Escarlate E Violeta 7 Coroa Estelar TCG",
+            "currency": "BRL",
+            "description": [
+                "ColeÃ§Ã£o Limitada: EdiÃ§Ã£o especial com tiragem limitada.",
+                "ConteÃºdo Exclusivo: 36 boosters por box, cada booster contendo cartas raras garantidas.",
+                "Valor ColecionÃ¡vel: Possibilidade de obter cartas ultra-raras e com alto valor de mercado.",
+                "Embalagem Especial: Box decorativa com arte exclusiva, ideal para colecionadores.",
+                "PromoÃ§Ã£o Especial: Ofertas e descontos especiais na compra antecipada ou em grandes quantidades."
+            ],
+            "link": "https://arcania.com/produto/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg",
+            "image": "https://arcania.com/images/products/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg.jpg"
+        },
+        "company": {
+            "name": "Arcania TCG",
+            "slogan": "Desperte seu poder, domine o jogo.",
+            "description": "A Arcania TCG Ã© uma loja especializada em artigos exclusivos para jogadores de Trading Card Games (TCG). Com uma seleÃ§Ã£o premium que inclui cartas raras, boosters, sleeves protetores, playmats personalizados e acessÃ³rios diversos, a Arcania Ã© projetada para atender desde iniciantes atÃ© jogadores profissionais.",
+            "website": "https://arcania.com",
+            "products": [
+                "Cartas Individuais (singles): Grande variedade de cartas avulsas de Magic: The Gathering, PokÃ©mon TCG, Yu-Gi-Oh!, entre outros jogos.",
+                "Boosters e Boxes: Ãšltimos lanÃ§amentos e ediÃ§Ãµes limitadas.",
+                "AcessÃ³rios Exclusivos: Sleeves protetores personalizados, caixas organizadoras, dados temÃ¡ticos, playmats com arte original.",
+                "ColecionÃ¡veis: Produtos exclusivos como cartas graduadas (graded cards), artes originais de artistas renomados e merchandise oficial.",
+                "Eventos e Torneios: OrganizaÃ§Ã£o de torneios oficiais, eventos semanais e encontros de trocas para fortalecer a comunidade local e virtual."
+            ],
+            "social_media": {
+                "instagram": "https://instagram.com/arcania_tcg",
+                "facebook": "https://facebook.com/arcania_tcg",
+                "twitter": "https://twitter.com/arcania_tcg",
+                "tiktok": "https://tiktok.com/@arcania_tcg"
+            },
+            "address": {
+                "street": "Rua das Flores",
+                "number": 123,
+                "city": "SÃ£o Paulo",
+                "state": "SP",
+                "zip_code": "01234-567",
+                "country": "Brasil"
+            },
+            "differentiation": [
+                "Plataforma Digital Segura: Loja online com excelente UX/UI, integraÃ§Ã£o com sistemas de pagamento seguros e compliance financeiro.",
+                "Programa de Fidelidade: Sistema de pontos e recompensas exclusivas para clientes frequentes.",
+                "Comunidade Engajada: Plataforma de interaÃ§Ã£o para jogadores compartilharem estratÃ©gias, notÃ­cias e realizarem trocas com seguranÃ§a.",
+                "Suporte Especializado: Equipe experiente com atendimento personalizado e consultoria tÃ©cnica."
+            ],
+            "values": [
+                "TransparÃªncia: Compromisso com a honestidade e clareza em todas as transaÃ§Ãµes.",
+                "InovaÃ§Ã£o: Busca constante por novas tecnologias e tendÃªncias no mercado de TCG.",
+                "Comunidade: ValorizaÃ§Ã£o da interaÃ§Ã£o e do crescimento conjunto entre jogadores e a loja.",
+                "Sustentabilidade: Iniciativas para reduzir o impacto ambiental, como embalagens reciclÃ¡veis e parcerias com fornecedores sustentÃ¡veis."
+            ]
+        },
+        "language": "pt-br",
+        "client": {
+            "CustomerID": 617,
+            "Gender": "Female",
+            "Age": 55,
+            "Annual Income ($)": 165501,
+            "Spending Score (1-100)": 47,
+            "Profession": "Artist",
+            "Work Experience": 10,
+            "Family Size": 4,
+            "age_range": "medium",
+            "attr_proportion": 1.0,
+            "filled": "high"
+        }
+    },
+    "advertisement": {
+        "platform": "WhatsApp",
+        "format": "text",
+        "title": "🎉 Colecionadores, Atenção! A Edição Limitada de Pokémon Chegou!",
+        "body": "🌟 **Apresentamos o Box Display Escarlate e Violeta 7 Coroa Estelar TCG!** 🌟  \nEssa é a sua chance de adicionar uma peça única à sua coleção!  \n\n🃏 **Conteúdo Exclusivo:** São 36 boosters repletos de cartas raras garantidas, incluindo a possibilidade de obter cartas ultra-raras com alto valor de mercado!  \n\n🎨 **Embalagem Especial:** Com uma arte exclusiva, essa box decorativa é perfeita para os amantes de Pokémon e colecionadores como você!  \n\n💰 **Promoção Especial:** Aproveite ofertas e descontos na compra antecipada ou em grandes quantidades. É a oportunidade ideal para expandir sua coleção e ainda garantir um presente incrível para os seus entes queridos!  \n\n✨ **Por que você não pode perder essa edição limitada?**  \n- **Valor Colecionável:** Uma oportunidade de investimento que pode enriquecer sua coleção ao longo do tempo.  \n- **Comunidade:** Junte-se a outros colecionadores e compartilhe suas experiências e conquistas!  \n\n🔗 [Clique aqui para garantir o seu!](https://arcania.com/produto/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg)  \n\n🌈 Não deixe essa oportunidade passar! Aumente sua coleção e inspire sua família com essa edição única!  \n\n**👉 Garanta já o seu e faça parte dessa comunidade incrível!**",
+        "cta": "Clique aqui e garanta o seu!",
+        "visual_guidelines": "Utilize emojis para destacar pontos importantes. Use quebras de linha para separar seções e facilitar a leitura. Utilize negrito para enfatizar os benefícios e a exclusividade do produto.",
+        "tone": "Friendly, engaging, and informative",
+        "personalization_strategy": "A mensagem é personalizada para destacar a exclusividade do produto, alinhando-se aos interesses de colecionar e ao desejo de expandir a coleção, enquanto aborda preocupações sobre o valor do investimento.",
+        "ad": "🎉 Colecionadores, Atenção! A Edição Limitada de Pokémon Chegou!  \n🌟 **Apresentamos o Box Display Escarlate e Violeta 7 Coroa Estelar TCG!** 🌟  \nEssa é a sua chance de adicionar uma peça única à sua coleção!  \n\n🃏 **Conteúdo Exclusivo:** São 36 boosters repletos de cartas raras garantidas, incluindo a possibilidade de obter cartas ultra-raras com alto valor de mercado!  \n\n🎨 **Embalagem Especial:** Com uma arte exclusiva, essa box decorativa é perfeita para os amantes de Pokémon e colecionadores como você!  \n\n💰 **Promoção Especial:** Aproveite ofertas e descontos na compra antecipada ou em grandes quantidades. É a oportunidade ideal para expandir sua coleção e ainda garantir um presente incrível para os seus entes queridos!  \n\n✨ **Por que você não pode perder essa edição limitada?**  \n- **Valor Colecionável:** Uma oportunidade de investimento que pode enriquecer sua coleção ao longo do tempo.  \n- **Comunidade:** Junte-se a outros colecionadores e compartilhe suas experiências e conquistas!  \n\n🔗 [Clique aqui para garantir o seu!](https://arcania.com/produto/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg)  \n\n🌈 Não deixe essa oportunidade passar! Aumente sua coleção e inspire sua família com essa edição única!  \n\n**👉 Garanta já o seu e faça parte dessa comunidade incrível!**"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "campaign": {
+        "objective": "Product selling",
+        "product": {
+            "price": 199.99,
+            "name": "Pokémon, Box Display Escarlate E Violeta 7 Coroa Estelar TCG",
+            "currency": "BRL",
+            "description": [
+                "Coleção Limitada: Edição especial com tiragem limitada.",
+                "Conteúdo Exclusivo: 36 boosters por box, cada booster contendo cartas raras garantidas.",
+                "Valor Colecionável: Possibilidade de obter cartas ultra-raras e com alto valor de mercado.",
+                "Embalagem Especial: Box decorativa com arte exclusiva, ideal para colecionadores.",
+                "Promoção Especial: Ofertas e descontos especiais na compra antecipada ou em grandes quantidades."
+            ],
+            "link": "https://arcania.com/produto/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg",
+            "image": "https://arcania.com/images/products/pokemon-box-display-escarlate-e-violeta-7-coroa-estelar-tcg.jpg"
+        },
+        "company": {
+            "name": "Arcania TCG",
+            "slogan": "Desperte seu poder, domine o jogo.",
+            "description": "A Arcania TCG é uma loja especializada em artigos exclusivos para jogadores de Trading Card Games (TCG). Com uma seleção premium que inclui cartas raras, boosters, sleeves protetores, playmats personalizados e acessórios diversos, a Arcania é projetada para atender desde iniciantes até jogadores profissionais.",
+            "website": "https://arcania.com",
+            "products": [
+                "Cartas Individuais (singles): Grande variedade de cartas avulsas de Magic: The Gathering, Pokémon TCG, Yu-Gi-Oh!, entre outros jogos.",
+                "Boosters e Boxes: Últimos lançamentos e edições limitadas.",
+                "Acessórios Exclusivos: Sleeves protetores personalizados, caixas organizadoras, dados temáticos, playmats com arte original.",
+                "Colecionáveis: Produtos exclusivos como cartas graduadas (graded cards), artes originais de artistas renomados e merchandise oficial.",
+                "Eventos e Torneios: Organização de torneios oficiais, eventos semanais e encontros de trocas para fortalecer a comunidade local e virtual."
+            ],
+            "social_media": {
+                "instagram": "https://instagram.com/arcania_tcg",
+                "facebook": "https://facebook.com/arcania_tcg",
+                "twitter": "https://twitter.com/arcania_tcg",
+                "tiktok": "https://tiktok.com/@arcania_tcg"
+            },
+            "address": {
+                "street": "Rua das Flores",
+                "number": 123,
+                "city": "São Paulo",
+                "state": "SP",
+                "zip_code": "01234-567",
+                "country": "Brasil"
+            },
+            "differentiation": [
+                "Plataforma Digital Segura: Loja online com excelente UX/UI, integração com sistemas de pagamento seguros e compliance financeiro.",
+                "Programa de Fidelidade: Sistema de pontos e recompensas exclusivas para clientes frequentes.",
+                "Comunidade Engajada: Plataforma de interação para jogadores compartilharem estratégias, notícias e realizarem trocas com segurança.",
+                "Suporte Especializado: Equipe experiente com atendimento personalizado e consultoria técnica."
+            ],
+            "values": [
+                "Transparência: Compromisso com a honestidade e clareza em todas as transações.",
+                "Inovação: Busca constante por novas tecnologias e tendências no mercado de TCG.",
+                "Comunidade: Valorização da interação e do crescimento conjunto entre jogadores e a loja.",
+                "Sustentabilidade: Iniciativas para reduzir o impacto ambiental, como embalagens recicláveis e parcerias com fornecedores sustentáveis."
+            ]
+        },
+        "language": "pt-br"
+    },
+    "customers": "C:/Users/User/Blazzi/Repositories/adwise/app/datasets/customers.csv"
+}

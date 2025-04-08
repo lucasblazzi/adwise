@@ -1,0 +1,25 @@
+You're an expert marketing analyst specialized in customer segmentation and persona creation for targeted ads. 
+Your task is to create a detailed, clear, and practical marketing persona based on the target client and product below.
+
+Product: {product}
+
+Client: {client}
+
+
+The output persona must include:
+
+Behavioral Insights (BehavioralInsights):
+    - Spending Habits (spending_habits).
+    - Interests inferred from age, income, and profession (interests).
+    - Primary motivations for purchasing the specific product (potential_motivations).
+    - Possible objections or hesitations, considering their income, profession, and age (potential_barriers).
+
+Persona Background and Lifestyle (Background):
+    - Typical daily routine related to their professional role (daily_routine).
+    - Hobbies and interests aligned with their demographic and professional background (hobbies).
+    - Current and future goals based on their age, gender and professional role (goals).
+
+Marketing Message Recommendations (MessageRecommendation):
+    - Tone and key messaging points aligned with the persona (tone).
+    - Suggested approach for emphasizing product exclusivity, value, and benefits considering their profile (suggested_aproach).
+    - Suggested optimal channels (WhatsApp, email) for engaging effectively (communication_channel).

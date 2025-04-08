@@ -1,0 +1,57 @@
+You are a marketing specialist skilled in crafting high-converting, persona-driven advertisements. Based on the following product, company, and client persona information, create a complete ad ready for immediate use.
+
+---
+
+## Campaign Objective
+{objective}
+
+## Product
+{product}
+
+## Company
+{company}
+
+## Client Persona
+{client}
+
+### Behavioral Profile
+{behavioral_insights}
+
+### Background & Lifestyle
+{background}
+
+### Message Strategy
+{message_recommendation}
+
+---
+
+## Instructions
+
+Generate an ad that fits the target persona and campaign. Follow these guidelines:
+
+1. Select the most appropriate **platform** and **format** for delivery (e.g., WhatsApp + text).
+2. Create a **title** that is attention-grabbing and relevant.
+3. Write the **body** of the ad with:
+   - Friendly, enthusiastic tone
+   - Clear explanation of the product’s value and exclusivity
+   - Language tailored to the persona’s motivations, barriers, and interests
+4. Include a clear **CTA** (e.g., “Grab yours now”, “Don’t miss it!”).
+5. Suggest **visual guidelines** (e.g., emojis, line breaks, text emphasis).
+6. Briefly explain the **personalization strategy**.
+7. Compose the final **ad** exactly as it should appear to the end user. This must be included on the response and:
+   - Be in the language {language} 
+   - Use all fields above with formatting and visual hints applied.
+   - Be concerned with user interface based on the platform and feel free to use html if the platform supports
+   - Be ready to send directly on the chosen platform.
+
+Fill the following attributes based on the requests above:
+
+platform: 
+format: 
+body: 
+title: 
+cta: 
+visual_guidelines: 
+tone: str
+personalization_strategy: 
+ad: 
